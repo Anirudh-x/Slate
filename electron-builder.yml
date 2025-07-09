@@ -1,4 +1,4 @@
-appId: com.electron.app
+appId: com.slate
 productName: slate
 directories:
   buildResources: build
